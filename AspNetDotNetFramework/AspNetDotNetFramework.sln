@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetDotNetFramework", "As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_55_CrossPagePosting", "Part_55_CrossPagePosting\Part_55_CrossPagePosting.csproj", "{03F3E44B-9DFA-4897-8C40-755DDB343FA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_56_CrossPagePostBackStronglyTypedRef", "Part_56_CrossPagePostBackStronglyTypedRef\Part_56_CrossPagePostBackStronglyTypedRef.csproj", "{91D3B53B-4AB1-436F-82D5-96E666385E7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{03F3E44B-9DFA-4897-8C40-755DDB343FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03F3E44B-9DFA-4897-8C40-755DDB343FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03F3E44B-9DFA-4897-8C40-755DDB343FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D3B53B-4AB1-436F-82D5-96E666385E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D3B53B-4AB1-436F-82D5-96E666385E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D3B53B-4AB1-436F-82D5-96E666385E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D3B53B-4AB1-436F-82D5-96E666385E7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
