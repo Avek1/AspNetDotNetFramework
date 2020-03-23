@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_57_OpenNewWindowUsingJ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_58_TechniquesToSendDataFromWebFormToAnother", "Part_58_TechniquesToSendDataFromWebFormToAnother\Part_58_TechniquesToSendDataFromWebFormToAnother.csproj", "{09B05784-12A0-49BF-A113-5ACA0CCC3CDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_59_QueryString", "Part_59_QueryString\Part_59_QueryString.csproj", "{F5A2C676-EFC9-44CA-9477-00EC1C682F75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{09B05784-12A0-49BF-A113-5ACA0CCC3CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09B05784-12A0-49BF-A113-5ACA0CCC3CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09B05784-12A0-49BF-A113-5ACA0CCC3CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A2C676-EFC9-44CA-9477-00EC1C682F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A2C676-EFC9-44CA-9477-00EC1C682F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A2C676-EFC9-44CA-9477-00EC1C682F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A2C676-EFC9-44CA-9477-00EC1C682F75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
